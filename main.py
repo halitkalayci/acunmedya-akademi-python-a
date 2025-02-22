@@ -181,3 +181,14 @@ else: #yukarıdaki şart(lar) sağlanmadığında çalışacak blok
 logging_enabled=False
 if logging_enabled == True:
     print("Loglanıyor...")
+
+
+#methodlar,fonksiyonlar
+
+
+
+
+
+
+
+
